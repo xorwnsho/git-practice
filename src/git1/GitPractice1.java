@@ -9,5 +9,6 @@ public class GitPractice1 {
         System.out.println("feature1 1");
         System.out.println("feature1 2");
         System.out.println("develop 3");
+        System.out.println("release 1");
     }
 }
