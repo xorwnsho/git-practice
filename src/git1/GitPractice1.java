@@ -5,5 +5,6 @@ public class GitPractice1 {
         System.out.println("v0.1 입니다.");
         System.out.println("develop 1");
         System.out.println("develop 2");
+        System.out.println("feature1 1");
     }
 }
