@@ -6,6 +6,7 @@ public class GitPractice1 {
         System.out.println("develop 1");
         System.out.println("feature2 1");
         System.out.println("feature2 2");
-        System.out.println("feature2 2");
+        System.out.println("feature2 3");
+        System.out.println("feature2 4");
     }
 }
