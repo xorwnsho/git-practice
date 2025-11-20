@@ -13,5 +13,7 @@ public class GitPractice1 {
         System.out.println("release 2");
         System.out.println("v0.2 입니다.");
         System.out.println("v1.0 입니다.");
+
+        System.out.println("깃 끝");
     }
 }
